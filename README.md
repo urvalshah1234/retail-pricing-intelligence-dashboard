@@ -1,5 +1,9 @@
 # Retail Pricing Intelligence Dashboard
 
+## Project Demonstration on Tableau Public
+
+https://public.tableau.com/app/profile/urval.shah/viz/Muscleblazedashboard/RetailPricingIntelligenceDashboard
+
 ## Project Overview
 
 This project is an end-to-end Retail Pricing Intelligence Dashboard built using live e-commerce product data scraped from the MuscleBlaze website. The dashboard provides business insights into product pricing, discount strategies, category-level analysis, and customer savings using interactive Tableau visualizations.
