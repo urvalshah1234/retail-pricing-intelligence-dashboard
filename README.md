@@ -57,7 +57,6 @@ The dataset includes:
 * MRP Price
 * Offer Price
 * Discount Percentage
-* Scraped Date
 
 The data was collected through automated web scraping from the MuscleBlaze e-commerce platform.
 
